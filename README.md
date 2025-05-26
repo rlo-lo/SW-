@@ -1,31 +1,28 @@
-💡 SW Companion Project (2024)
-CJ OliveNetworks University Mentor Activity
+📌 Project: SW Companion Project 2024 – Youth AI/SW Mentoring
+🎓 Role: University Student Mentor (CJ OliveNetworks)
+🧑‍💻 Target Group: Middle & High School Students
+🏫 Schools Involved:
 
-Youth Digital Career Support Project
-Hosted by the Ministry of Science and ICT · Korea Foundation for the Advancement of Science and Creativity
-Organized by CJ OliveNetworks
+Korea Kents Future School (KKFS)
 
+Air High School (공항고)
 
-📝 Project Overview
-This repository documents the outcomes of the 2024 SW Companion Project, a youth mentoring initiative focused on AI and software education.
+Majon High School (마전고)
 
-As a university student mentor with CJ OliveNetworks, I guided middle and high school students through hands-on AI/SW projects, offering fundamental education, project development support, and career mentoring.
+Bugae High School (부개고)
 
-👨‍🏫 Roles & Contributions
-🧠 My Role
-Selected as a University Student Mentor (CJ OliveNetworks)
+💼 Activities Overview
+👩‍🏫 Conducted basic AI & software education (block coding, data analysis, generative AI)
 
-Delivered foundational education on AI, block coding, and data analysis
+🧩 Guided student-led problem-solving projects from ideation to implementation
 
-Guided project planning, prototyping, and implementation
+💬 Provided online & offline career mentoring sessions
 
-Provided career mentoring through both online and offline sessions
+🚀 Led two one-day hackathons in Songdo
 
-🚀 Key Activities
-Mentored at KKFS (Korea Kents Future School) on student-led problem-solving projects
+🎯 Goals
+Empower students to explore careers in AI & SW
 
-Led two one-day hackathon mentoring sessions in Songdo
-(Involving Air High School, Majon High School, and Bugae High School)
+Help students define real-world problems and build solutions
 
-Supported students in defining real-world problems and developing AI/SW-based solutions
-
+Foster creativity, teamwork, and digital literacy
