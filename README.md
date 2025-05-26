@@ -1,28 +1,35 @@
-📌 Project: SW Companion Project 2024 – Youth AI/SW Mentoring
-🎓 Role: University Student Mentor (CJ OliveNetworks)
-🧑‍💻 Target Group: Middle & High School Students
-🏫 Schools Involved:
+📁 Repository: SW-Companion-Project
+🎓 Role: University Student Mentor @ CJ OliveNetworks
+📆 Period: March 2024 – August 2024
+📍 Focus: Youth AI/SW Career Mentoring & Problem-Solving Projects
 
-Korea Kents Future School (KKFS)
+🧩 Project Description
+This repository contains the results and materials from the 2024 SW Companion Project, a nationwide mentoring initiative hosted by the Ministry of Science and ICT and organized by the Korea Foundation for the Advancement of Science and Creativity.
+As a selected mentor from CJ OliveNetworks, I worked with middle and high school students to foster their interest in AI and software, helping them define real-world problems and build their own digital solutions.
 
-Air High School (공항고)
+💡 My Contributions & Achievements
+✅ Designed and led hands-on AI/SW curriculum for students with diverse tech backgrounds
+✅ Facilitated 5+ student-led projects from problem definition to prototype demonstration
+✅ Mentored at major events such as:
 
-Majon High School (마전고)
+🏫 Korea Kents Future School (KKFS) – Semester-long problem-solving mentoring
 
-Bugae High School (부개고)
+🛫 Songdo One-Day Hackathon – Mentoring at Air High, Majon, and Bugae High Schools
+✅ Specialized in:
 
-💼 Activities Overview
-👩‍🏫 Conducted basic AI & software education (block coding, data analysis, generative AI)
+Generative AI tools & ethics
 
-🧩 Guided student-led problem-solving projects from ideation to implementation
+Block-based coding for beginners
 
-💬 Provided online & offline career mentoring sessions
+Data analysis using Python and spreadsheets
+✅ Provided tailored career guidance, helping students connect technology to social impact and personal growth
 
-🚀 Led two one-day hackathons in Songdo
+🎯 Highlights
+🚀 Encouraged student autonomy through open-ended problem solving
 
-🎯 Goals
-Empower students to explore careers in AI & SW
+💬 Blended technical mentoring with personal career support
 
-Help students define real-world problems and build solutions
+📈 Helped students publish their final projects via presentations, demos, and GitHub documentation
 
-Foster creativity, teamwork, and digital literacy
+📝 This repository serves as a portfolio archive of my mentoring activities, resources used in education, and the student project outcomes I supported.
+
